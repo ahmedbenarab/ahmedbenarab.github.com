@@ -1,6 +1,6 @@
 
 # Ahmed Benarab
-<img src="assets/ahmedimg.jpg"
+<img src="assets/mypicposter2.png"
      alt="Ahmed img"
      style="float: center; height: 25%; width: 25%;background-color: powderblue" />
 
